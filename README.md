@@ -18,7 +18,7 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony_OLuwaseun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-oluwaseun-3b9a71332/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@anthonyseun-1DA1F2?style=flat&logo=twitter)](https://x.com/anthontyseun?s=21)
-[![GitHub](https://img.shields.io/badge/Github-Empirecodes-1DA1F2?style=flat&logo=twitter)](https://github.com/Empirezoom)  
+[![GitHub](https://img.shields.io/badge/Github-Empirezoom-1DA1F2?style=flat&logo=twitter)](https://github.com/Empirezoom)  
 ---
 ### Languages and Tools:
 
