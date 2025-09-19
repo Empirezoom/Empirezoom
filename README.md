@@ -1,6 +1,5 @@
 # Hi 👋, I'm Anthony Matthew (EmpireCode$)
-### My Contribution Snake
-![snake](https://github.com/Empirezoom/Empirezoom/blob/output/github-contribution-grid-snake-dark.svg)
+
 **Software Engineer and Full Stack Web  Developer**   
 GitHub: [Empirecodes](https://github.com/Empirezoom) 
 
@@ -58,3 +57,11 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+full+stack+projects;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Empirezoom&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Empirezoom)
+
+
+
+
+
+
+### My Contribution Snake
+![snake](https://github.com/Empirezoom/Empirezoom/blob/output/github-contribution-grid-snake-dark.svg)
