@@ -85,7 +85,7 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 ### Profile Views
 
 [![Profile views](https://komarev.com/ghpvc/?username=Empirezoom&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Empirezoom)
-<p align="center">
+<p align="left">
   <img src="https://hits.sh/github.com/Empirezoom/Empirezoom.svg?zero=true&color=E34F26" alt="Profile Views" />
 </p>
 
