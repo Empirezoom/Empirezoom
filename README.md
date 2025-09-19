@@ -1,5 +1,6 @@
 # Hi 👋, I'm Anthony Matthew (EmpireCode$)
- Anthony Oluwaseun Matthew
+### My Contribution Snake
+![snake](https://github.com/Empirezoom/Empirezoom/blob/output/github-contribution-grid-snake-dark.svg)
 **Software Engineer and Full Stack Web  Developer**   
 GitHub: [Empirecodes](https://github.com/Empirezoom) 
 
