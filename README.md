@@ -59,9 +59,19 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 [![Profile views](https://komarev.com/ghpvc/?username=Empirezoom&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Empirezoom)
 
 
+---
+### Fun Fact
+<p align="center">
+  <a href="https://readme-jokes.vercel.app/api">
+    <img src="https://readme-jokes.vercel.app/api" alt="Readme Jokes" />
+  </a>
+</p>
 
-
-
+---
 
 ### My Contribution Snake
 ![snake](https://github.com/Empirezoom/Empirezoom/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
