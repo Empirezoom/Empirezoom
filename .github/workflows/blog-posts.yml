@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_url: https://medium.com/feed/@ancestor.profzoom    # Replace with your actual RSS feed URL
+          feed_url: https://medium.com/@ancestor.profzoom/list/reading-list    # Replace with your actual RSS feed URL
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
           filter_by_content_length: 500
