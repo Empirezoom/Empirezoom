@@ -2,8 +2,6 @@
 
 ### Welcome to my GitHub Profile!
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Engineer;Full+Stack+Web+Developer;Obsessive+Math+Lover" alt="Typing SVG" /> </p> 
-GitHub: [Empirecodes](https://github.com/Empirezoom) 
-
 ---
 🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
 
