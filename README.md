@@ -81,4 +81,10 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
   </a>
 </p>
 
+---
+### Profile Views
+<p align="center">
+  <img src="https://hits.sh/github.com/Empirezoom/Empirezoom.svg?zero=true&color=E34F26" alt="Profile Views" />
+</p>
+
 
