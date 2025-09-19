@@ -72,6 +72,12 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 ### My Contribution Snake
 ![snake](https://github.com/Empirezoom/Empirezoom/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+---
+### GitHub Trophies
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=Empirezoom&theme=radical&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=Empirezoom&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 
