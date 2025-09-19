@@ -5,7 +5,7 @@
 ---
 🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
 
-👨‍💻 All of my projects are available at [empire.codes](https://empire.codes)  
+👨‍💻 All of my projects are available at [empire.codes](https://github.com/Empirezoom))  
 
 💬 Ask me about tech, coding, or anything curious you’re exploring!  **Anything Web Development!** 
 
@@ -23,22 +23,16 @@
 ### Languages and Tools:
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) 
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
- 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)        
 
 ---
-
 ### GitHub Stats
 ![Empire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Empirezoom&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirezoom&layout=compact&theme=radical)
