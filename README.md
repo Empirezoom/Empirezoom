@@ -5,6 +5,9 @@
 GitHub: [Empirecodes](https://github.com/Empirezoom) 
 
 ---
+### Latest Blog Posts
+
+---
 
 🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
 
@@ -94,6 +97,5 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 </p>
 
 
----
-### Latest Blog Posts
+
 
