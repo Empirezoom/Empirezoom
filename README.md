@@ -5,7 +5,7 @@
 ---
 🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
 
-👨‍💻 All of my projects are available at [empire.codes](https://github.com/Empirezoom))  
+👨‍💻 All of my projects are available at [empire.codes](https://empirecodes.com.ng))  
 
 💬 Ask me about tech, coding, or anything curious you’re exploring!  **Anything Web Development!** 
 
@@ -19,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony_OLuwaseun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-oluwaseun-3b9a71332/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@anthonyseun-1DA1F2?style=flat&logo=twitter)](https://x.com/anthontyseun?s=21)
 [![GitHub](https://img.shields.io/badge/Github-Empirezoom-1DA1F2?style=flat&logo=twitter)](https://github.com/Empirezoom)  
+[![GPortfolio](https://img.shields.io/badge/Github-Empirezoom-1DA1F2?style=flat&logo=twitter)](https://empirecodes.com.ng) 
 ---
 ### Languages and Tools:
 
